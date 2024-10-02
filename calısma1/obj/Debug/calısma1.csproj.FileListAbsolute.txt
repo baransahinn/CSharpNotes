@@ -1,0 +1,7 @@
+C:\Users\BRN\source\repos\calısma1\calısma1\bin\Debug\calısma1.exe.config
+C:\Users\BRN\source\repos\calısma1\calısma1\bin\Debug\calısma1.exe
+C:\Users\BRN\source\repos\calısma1\calısma1\bin\Debug\calısma1.pdb
+C:\Users\BRN\source\repos\calısma1\calısma1\obj\Debug\calısma1.csproj.AssemblyReference.cache
+C:\Users\BRN\source\repos\calısma1\calısma1\obj\Debug\calısma1.csproj.CoreCompileInputs.cache
+C:\Users\BRN\source\repos\calısma1\calısma1\obj\Debug\calısma1.exe
+C:\Users\BRN\source\repos\calısma1\calısma1\obj\Debug\calısma1.pdb
